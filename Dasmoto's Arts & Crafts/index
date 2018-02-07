@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <meta name="viewport" content="width=device-width" >
+  <link href="./resources/css/index.css" type="text/css" rel="stylesheet">
+  <title>DASMOTO'S ARTS & CRAFTS</title>
+</head>
+<body>
+    <div>
+        <div class="logo">
+            <img src="http://www.airtrampolinesports.com/wp/wp-content/uploads/2015/10/airsplat.png" alt="logo" style="max-width:100%;">
+            </div id="head"><a href="./index" style="text-decoration:none">
+             <h1 class="header">DASMOTO'S</h1>
+             <h4 class="subheader">ARTS & CRAFTS</h4></a>
+            </div>
+
+<!--toprow-->
+     <div class="contents">
+        <div class="bigbox">    
+                    <div class="box">
+                        <div id="brushes"><img src="https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-2/hacksaw.jpeg" alt="brushes" style="max-width:auto;max-height:auto;margin-left:8px;-moz-border-radius: 180px;
+                            -webkit-border-radius: 180px;border-radius: 180px;border: 1px solid rgba(168, 168, 168, 0.507);"></div>
+                     <div class="titles">brushes</div>
+                       <div class="boxed-titles">Hacksaw Brushes</div>
+                        <div class="boxed-text"><p>Made of the highest quality oak, Hacksaw brushes are known for their weight and ability to hold paint in large amounts. Available in different sizes. 
+                        <br>
+                        <br>
+                        <strong class="strong">Starting at $3.00 / brush</strong></p></div>
+                        </div>
+                        <div class="box">
+                                <div id=frames><img src="https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-2/frames.jpeg" alt="frames" style="max-width:auto;max-height:auto;margin-left:8px;-moz-border-radius: 180px;
+                                    -webkit-border-radius: 180px;border-radius: 180px;border: 1px solid rgba(168, 168, 168, 0.507);"></div>
+                        <div class="titles">frames</div>
+                        <div class="boxed-titles">Art Frames (assorted)</div>
+                        <div class="boxed-text"><p>Assorted frames made of different material, including MDF, birchwood, and PDE. Select frames can be sanded and painted according to your needs. 
+                        <br>
+                        <br>
+                        
+                        <strong class="strong">Starting at $2.00 / frame</strong></p></div>
+                    </div>
+                    <div class="box">
+                            <div id="paints"><img src="https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-2/finnish.jpeg" alt="paints" style="max-width:auto;max-height:auto;margin-left:8px;-moz-border-radius: 180px;
+                                -webkit-border-radius: 180px;border-radius: 180px;border: 1px solid rgba(168, 168, 168, 0.507);"></div>
+                        <div class="titles">paints</div>
+                        <div class="boxed-titles">Clean Finnish Paint</div>
+                        <div class="boxed-text"><p>Imported paint from Finland. Over 256 colors available in-store, varying in quantity (1 oz. to 8 oz.). Clean Finnish paint microbinds to canvas, increasing the finish and longevity of any artwork. 
+                        <br>
+                        
+                        <strong class="strong">Starting at $5.00 / tube</strong></p></div>
+                    </div>
+                </div>
+            </div>
+      </div>
+<br>
+      <div class="footer">
+         <h5> © 2018 by Dasmoto's Arts & Crafts. Created by <em>gregorysgeorge</em></h5>
+      </div>
+</div>
+  
+</body>
+</html>
