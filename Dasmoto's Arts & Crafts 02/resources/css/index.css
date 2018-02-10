@@ -1,0 +1,128 @@
+* {
+  font-family: Courier New, Courier, monospace 
+}
+
+body  {
+  background-color: #fbfbfc;
+  margin: 0%;
+  padding: 0%
+}
+
+header {
+  position: static;
+  opacity:0.85;
+  image-rendering:optimizeQuality;
+  margin: 0 auto;
+}
+
+img {
+  max-width: 100%;
+}
+
+h1 {
+  font-size: 800%;
+  font-weight: lighter;
+  color: rgb(117, 43, 145);
+  text-align: center;
+  position: relative;
+  margin: 0px auto;
+  top: -120px;
+  text-rendering: optimizeLegibility;
+  
+}
+
+h2 {
+  color: rgba(206, 25, 92, 0.9);
+  text-align: right;
+  height: auto;
+  font-weight: 100;
+  font-size: 370%;
+  position: relative;
+  margin: 0px auto;
+  top: -170px;
+  text-rendering: optimizeLegibility;
+}
+
+.contents {
+  margin: 0px auto;
+  margin-left: 10%;
+  margin-right: 10%;
+  }
+
+  .wrapper {
+    width: 100%;
+    height: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    }
+
+    .single-products {
+      height: 100%;
+      float: left;
+      padding-left: 1.5%;
+      padding-right: 1.5%;
+      width: 30.33333%;
+      display: block;
+      margin: 0px auto;
+      } 
+
+    /* products images */
+      img#brushes,img#frames,img#paints { 
+      height: auto;
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+      -moz-border-radius: 180px;
+      -webkit-border-radius: 180px;
+      border-radius: 180px;border: 1px solid rgba(168, 168, 168, 0.507);
+      }
+
+      #brushes:hover,#frames:hover,#paints:hover {
+      opacity: 0.8;
+      transition: all 0.5s ease;
+      cursor: pointer;
+      }
+
+        /* product title inside the images */
+        span {
+        text-align: center;
+        text-decoration-line: overline;
+        color:white;
+        font-weight: 100;
+        top: -130px;  
+
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        position: relative;
+        font-size: 150%;
+        margin: 0% auto;
+        }
+
+        span:hover {
+          cursor: pointer;
+          }
+
+      /* products description */
+
+    h4 {
+      padding: 15px 0px 15px;
+      font-size: 16px;
+      font-weight: bolder;
+      text-align: center;
+      border-top: solid 0.5px rgba(44, 44, 43, 0.5);
+      border-bottom :solid 0.5px rgba(44, 44, 43, 0.5);
+    }
+
+    p {
+      padding-top: 1px;
+      font-size: 15px;
+      text-align: justify;
+      font-weight: lighter;
+      line-height: 1.8em;
+      color: rgb(0, 0, 0);
+    }
+
+    h5 {
+      text-align: left;
+    }
